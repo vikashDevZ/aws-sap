@@ -1,11 +1,5 @@
 # AWS Solution Architech Professional
 
-# AWS SAP (Solutions Architect Professional) Notes
-
-> Legend: ⚠️ = correction to the original note · 💡 = added point · ⭐ = high-priority exam topic
-
----
-
 ## IAM Policy Evaluation
 
 **Explicit Deny > Allow > Default (Implicit) Deny**
